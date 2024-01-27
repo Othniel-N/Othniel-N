@@ -3,7 +3,7 @@
 <!--
 
 
-- 🔭 I’m currently working on **Alpha Bussiness Solutios**
+- 🔭 I’m currently working on **Alpha Bussiness Solutions**
 
 **Othniel-N/Othniel-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -35,3 +35,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Othniel-N&show_icons=true&hide=stars,issues,contributions" alt="Othniel-N" /></p>
+
+#### Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀

@@ -2,10 +2,9 @@
 <h3 align="center">Passionate DevOps Engineer from India with 2+ years of experience in Cloud and DevOps. Open to freelance projects—feel free to reach out</h3>
 <!--
 
-
 - 🔭 I’m currently working on **Alpha Bussiness Solutions**
 
-**Othniel-N/Othniel-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **othnielkarlax2001@gmail.com**
 
 Here are some ideas to get you started:
 

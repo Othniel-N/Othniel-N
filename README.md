@@ -21,10 +21,13 @@
 ### Database Stacks:
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" title="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="cassandra" title="mongodb" width="40" height="40"/>
 
+
+
 #### 🏆I'm Learning and working on Certifications
 
 - AWS Certified Solutions Architect - Associate
 - HashiCorp Certified: Terraform Associate
+
 
 
 ##### 👨‍💻 Some of the projects I have worked recently
@@ -39,7 +42,9 @@
 
 - 📦 Containerizing a ML MicroService and running it over Kubernetes - [Github](https://github.com/Yatharth0045/operationalize-ml-microservice-api)
 
-- 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github](https://github.com/Yatharth0045/capstone-udacity) 
+- 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github](https://github.com/Yatharth0045/capstone-udacity)
+
+
 
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">

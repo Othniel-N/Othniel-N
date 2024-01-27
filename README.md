@@ -16,6 +16,22 @@
 - HashiCorp Certified: Terraform Associate
 
 
+##### 👨‍💻 Some of the projects I have worked recently
+
+- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Yatharth0045/terraform-quickstart)
+
+- 📦 Deployment of a static webpage using AWS s3 and CloudFront - [Github](https://github.com/Yatharth0045/s3-cloudFront)
+
+- 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github](https://github.com/Yatharth0045/static)
+
+- 📦 CI of a python application using circleCI - [Github](https://github.com/Yatharth0045/docker-python-app)
+
+- 📦 Containerizing a ML MicroService and running it over Kubernetes - [Github](https://github.com/Yatharth0045/operationalize-ml-microservice-api)
+
+- 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github](https://github.com/Yatharth0045/capstone-udacity) 
+
+
+
 
 <h3 align="left">DevOps Stacks:</h3>
 <p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" title="logstash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> </p>
@@ -37,3 +53,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Othniel-N&show_icons=true&hide=stars,issues,contributions" alt="Othniel-N" /></p>
 
 #### Please feel free to explore my repositories and contact me for any collaborations or questions. Let's build awesome things together! 🚀
+
+
+
+

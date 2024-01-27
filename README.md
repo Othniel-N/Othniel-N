@@ -28,8 +28,7 @@
 - 📫 Email me **[abs.othniel2023@gmail.com](mailto:abs.othniel2023@gmail.com)**
 
 
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Othniel-N&show_icons=true&hide=stars,issues,contributions" alt="Othniel-N" /></p>
 
 
 

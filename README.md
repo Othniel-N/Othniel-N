@@ -20,6 +20,12 @@
 ### Database Stacks:
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" title="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="cassandra" title="mongodb" width="40" height="40"/>
 
+<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
+<p align="left">
+</p>
+
+- 💬 Ask me about **DevOps**
+- 📫 Email me **[abs.othniel2023@gmail.com](mailto:abs.othniel2023@gmail.com)**
 
 
 

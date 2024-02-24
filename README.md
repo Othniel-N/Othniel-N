@@ -23,10 +23,10 @@
 
 
 
-#### 🏆I'm Learning and working on Certifications
+#### 🏆I'm Learning and Preparing for
 
 - AWS Certified Solutions Architect - Associate
-- HashiCorp Certified: Terraform Associate
+
 
 
 

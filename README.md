@@ -26,6 +26,7 @@
 #### 🏆I'm Learning and Preparing for
 
 - AWS Certified Solutions Architect - Associate
+- CKA Certification
 
 
 

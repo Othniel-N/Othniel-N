@@ -32,17 +32,17 @@
 
 ##### 👨‍💻 Some of the projects I have worked recently
 
-- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Yatharth0045/terraform-quickstart)
+- 📦 Deployed Full stack MERN appplication in AWS EKS
 
-- 📦 Deployment of a static webpage using AWS s3 and CloudFront - [Github](https://github.com/Yatharth0045/s3-cloudFront)
+- 📦 Deployment of a static webpage using AWS s3
 
-- 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github](https://github.com/Yatharth0045/static)
+- 📦 Setting up a Tekton pipeline for CI/CD of backend application named pledge
 
-- 📦 CI of a python application using circleCI - [Github](https://github.com/Yatharth0045/docker-python-app)
+- 📦 Created a tool using kubernetes API in nodejs with developers support
 
-- 📦 Containerizing a ML MicroService and running it over Kubernetes - [Github](https://github.com/Yatharth0045/operationalize-ml-microservice-api)
+- 📦 Deployed a PostgresDB, MongodB in kubernetes cluster as sts to reduce cost.
 
-- 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github](https://github.com/Yatharth0045/capstone-udacity)
+- 📦 Recently done  a cluster setup on VMS , using microk8s and rancher distributions.
 
 
 
